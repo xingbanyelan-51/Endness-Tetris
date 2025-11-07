@@ -2,6 +2,19 @@
 
 **Welcome to Endless Tetris!** This is a modern remake of the classic Tetris game, designed specifically for players who love challenging themselves. Unlike traditional level-based modes, this version features **endless mode**—blocks will keep falling endlessly until your stack reaches the top and the game ends. Your goal is to stack blocks, clear full lines, accumulate high scores, and break your own records! The game is easy to pick up, but becoming a master requires skill, strategy, and a bit of luck.
 
+#### Controls
+- **On-Screen Buttons**: Use mouse or touch to click corresponding buttons (Hold, rotate, move, drop). Perfectly adapted for mobile devices!
+
+- **Keyboard Controls**:
+Arrow Left: Move piece left
+Arrow Right: Move piece right
+Arrow Down: Soft drop (hold to speed up)
+Arrow Up: Rotate Clockwise
+Z: Rotate Counter Clockwise
+Space: Hard drop (instant lock)
+C: Hold/swap piece
+
+
 #### Basic Gameplay
 - **Block Falling**: Randomly shaped blocks (Tetrominoes) slowly descend from the top. You can move and rotate them to fit perfectly at the bottom.
 - **Line Clearing**: When a row is completely filled, it disappears, and you earn points. The more lines cleared at once, the higher the score!
@@ -21,9 +34,6 @@ A two-block-wide high slanted hole can also produce T1 and T2. Simply rotate onc
 - **High Score Record System**: Tracks your highest score, highest level, longest combo (Combo), longest B2B, and most PCs. Reset records anytime to challenge yourself!
 - **Visuals and Sounds**: Blocks feature cool animated gradient effects, accompanied by pleasant sound effects during clears (combo pitches rise, B2B has special melodies). Supports on-screen buttons and keyboard controls, suitable for phones or computers.
 - **Infinite Replayability**: No level limits, pure endless mode. Every game is a fresh start, with random block bags ensuring fairness.
-
-#### Controls
-- **On-Screen Buttons**: Use mouse or touch to click corresponding buttons (Hold, rotate, move, drop). Perfectly adapted for mobile devices!
 
 #### Why Play This Game?
 Endless Tetris is a great way to relax your mind while also training your reaction and planning skills. Whether you're a Tetris veteran or trying it for the first time, you'll find fun here. The goal is to break your high score records—what's my highest score? Give it a try! The game is completely free, ad-free, and no in-app purchases.
