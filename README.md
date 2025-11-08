@@ -34,6 +34,7 @@ A two-block-wide high slanted hole can also produce T1 and T2. Simply rotate onc
 - **High Score Record System**: Tracks your highest score, highest level, longest combo (Combo), longest B2B, and most PCs. Reset records anytime to challenge yourself!
 - **Visuals and Sounds**: Blocks feature cool animated gradient effects, accompanied by pleasant sound effects during clears (combo pitches rise, B2B has special melodies). Supports on-screen buttons and keyboard controls, suitable for phones or computers.
 - **Infinite Replayability**: No level limits, pure endless mode. Every game is a fresh start, with random block bags ensuring fairness.
+- **Immersive Background Melody**: Dive into a custom looping soundtrack, crafted from a compact musical notation (jeScore) and rendered smoothly via the Web Audio API. Players can fine-tune the experience by adjusting the octave shift in CONFIG for deeper, richer tones and the playback speed factor to sync perfectly with the game's escalating tempo—empowering you to customize the auditory flow to match your playstyle, all while keeping the endless challenge front and center.
 
 #### Why Play This Game?
 Endless Tetris is a great way to relax your mind while also training your reaction and planning skills. Whether you're a Tetris veteran or trying it for the first time, you'll find fun here. The goal is to break your high score records—what's my highest score? Give it a try! The game is completely free, ad-free, and no in-app purchases.
